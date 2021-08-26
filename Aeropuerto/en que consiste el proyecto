@@ -1,0 +1,14 @@
+Diseñar y codificar una aplicacion informatica para una compañia de gestion aeroportuaria satisfaciendo los siguientes requisitos:
+-Para cada aeropuerto es necesario saber:
+a) Todas las compañias de vuelos que operan en el.
+b) Nombre del aeropuerto, la ciudad donde se ubica y el pais al que pertenece.
+
+ Cada compañia se caracteriza por el nombre y la lista de vuelos que ofrece.
+Los vuelos estan definidos por su identidicador, la ciudad de origen, la ciudad de destino, el precio del viaje, la lista de pasajeros,
+el numero maximo de pasajeros permitidos en el vuelo y el numero real de pasajeros que ha reservado asiento en el avion.
+
+ Los aeropuertos pueden ser privados o publicos.
+a) Los aeropuertos privados tienen una serie de empresas que lo patrocinan y es necesario saber el nombre de cada una de esas empresas.
+b) Para los aeropuertos publicos se requiere saber la cantidad de dinero correspondiente a la subvencion gubernamental.
+Se necesita gestionar tambien la informacion de los pasajeros.
+a) Para cada pasajero se necesita saber nombre, numero de pasaporte y nacionalidad.
